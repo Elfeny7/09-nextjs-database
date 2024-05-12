@@ -20,3 +20,7 @@ Jadi kita bisa melakukan seed pada database dan otomatis terupdate di web vercel
 Hasil dari Query, nampak berhasil dan berarti seeding telah berhasil dilakukan
 
 ## Praktikum2
+
+### Soal5
+![gambar](images/5.png)
+Masih dicomment, karena menghindari error. Jadi kita dapat mendeploy dan fetch api menggunakan vercel
