@@ -24,3 +24,21 @@ Hasil dari Query, nampak berhasil dan berarti seeding telah berhasil dilakukan
 ### Soal5
 ![gambar](images/5.png)
 Masih dicomment, karena menghindari error. Jadi kita dapat mendeploy dan fetch api menggunakan vercel
+
+### Soal6
+![gambar](images/6.png)
+Bisa menampilkan 12 bulan dengan input manual dengan arbitrary value ```grid-cols-[25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px]```
+
+### Soal7
+![gambar](images/7.png)
+Hanya uncomment lalu menambahkan flex rows pada page.tsx
+
+## Tugas Praktikum
+
+### Nomor 1
+![gambar](images/8.png)
+Mengganti Card menjadi CardWrapper pada page.tsx
+
+### Nomor 2
+Karena CardWrapper ini membutuhkan 4 atribut tersebut, dan 4 atribut tersebut didapatkan dari ```fetchCardData()``` Jadi fungsi tersebut akan mereturn 4 value yang di mana setiap value nya mempunyai query sendiri seperti ini 
+![gambar](images/tugas2-penjelasan.png)
